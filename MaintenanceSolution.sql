@@ -16,7 +16,7 @@ You can contact me by e-mail at ola@hallengren.com.
 
 Ola Hallengren
 https://ola.hallengren.com
-
+adapted by laurent liegeois
 */
 
 USE [master] -- Specify the database in which the objects will be created.
