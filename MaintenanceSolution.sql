@@ -12,10 +12,14 @@ GitHub: https://github.com/olahallengren/sql-server-maintenance-solution
 
 Version: 2020-01-26 14:06:53
 
+Modified by lli for FN herstal 2020/02/04.
+
+
 You can contact me by e-mail at ola@hallengren.com.
 
 Ola Hallengren
 https://ola.hallengren.com
+
 
 */
 
