@@ -20,7 +20,7 @@ https://ola.hallengren.com
 */
 
 USE [comlog] -- Specify the database in which the objects will be created.
-
+go
 SET NOCOUNT ON
 
 DECLARE @CreateJobs nvarchar(max)          = 'Y'         -- Specify whether jobs should be created.
